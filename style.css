@@ -860,8 +860,8 @@ input[name="slide"] { display: none; }
 .img-cards,
 .main-title-5,
 .tabla-comparativa,
-.contact-container,
-.cont-footer{
+.contact-container
+{
   opacity: 0;
   transform: translateY(140px);
   transition: all 1s ease-out;
